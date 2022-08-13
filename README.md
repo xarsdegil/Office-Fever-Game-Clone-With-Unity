@@ -1,5 +1,5 @@
 # Office-Fever-Game-Clone-With-Unity
-Hypercasual game clone made using Unity
+Basic clone of popular hyper-casual game named Office Fever.
 
 ## Screenshots
 <table>
